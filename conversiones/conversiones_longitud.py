@@ -4,7 +4,7 @@ conversiones = {
         "metro (m)": 1,
         "decimetro (dm)": 0.1,
         "centimetro (cm)": 0.01,
-        " milimetro (mm)": 0.001,
+        "milimetro (mm)": 0.001,
         "micrometro (um)": 0.000001,
         "nanometro (nm)": 0.000000001
     },

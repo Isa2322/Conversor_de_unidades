@@ -14,8 +14,7 @@ conversiones = {
         "Decímetro cúbico (dm³)": 1,
         "Centímetro cúbico (cm³ o cc)": 0.001,
         "Milímetro cúbico (mm³)": 0.000001 
-}
-,
+    },
     
     "Sistema Ingles de Unidades":{
         "Galón imperial	(gal (UK))": 4.54609,
