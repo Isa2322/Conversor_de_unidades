@@ -1,8 +1,21 @@
 conversiones = {
     "Sistema Internacional (SI)": {
-        "Kelvin (K)": 1,
-        "Celcius": 2
-    },
+        "Kilolitro (kL)": 1000,
+        "Hectolitro (hL)": 100,
+        "Decalitro (daL)": 10,
+        "Litro (L)": 1,
+        "Decilitro (dL)": 0.1,
+        "Centilitro (cL)": 0.01,
+        "Mililitro (mL)": 0.001,
+        "Microlitro (µL)": 0.000001,
+        "Nanolitro (nL)": 0.000000001,
+        "Picolitro (pL)": 0.000000000001,
+        "Metro cúbico (m³)": 1000,
+        "Decímetro cúbico (dm³)": 1,
+        "Centímetro cúbico (cm³ o cc)": 0.001,
+        "Milímetro cúbico (mm³)": 0.000001 
+}
+,
     
     "Sistema Ingles de Unidades":{
         "Galón imperial	(gal (UK))": 4.54609,
